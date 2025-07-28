@@ -168,7 +168,7 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-**Sachin Yadav**
+**Fouziya Siddiqui**
 📧 [fouziyasddiqui8298@gmail.com](mailto:fouziyasddiqui8298@gmail.com)
 
 ---
